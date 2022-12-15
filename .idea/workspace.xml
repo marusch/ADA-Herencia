@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="085e3a24-60df-499c-a288-0c61c2c6ccb3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Herencia/Herencia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Herencia/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Herencia/src/entidades/Alumno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Herencia/src/entidades/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POO/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POO/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POO/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POO/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POO/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POO/POO.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POO/out/production/POO/Entidades/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POO/out/production/POO/Entidades/Operaciones.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POO/out/production/POO/Entidades/Persona.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POO/out/production/POO/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POO/src/Entidades/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POO/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOll/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOll/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOll/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOll/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOll/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOll/POOll.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOll/out/production/POOll/Entidades/Operaciones.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOll/out/production/POOll/Entidades/Persona.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOll/out/production/POOll/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOll/src/Entidades/Operaciones.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOll/src/Entidades/Persona.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOll/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOlll/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOlll/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOlll/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOlll/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOlll/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOlll/POOlll.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOlll/out/production/POOlll/Entidades/Cuenta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOlll/out/production/POOlll/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOlll/src/Entidades/Cuenta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOlll/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOllll/Agenda/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOllll/Agenda/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOllll/Agenda/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOllll/Agenda/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOllll/Agenda/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOllll/Agenda/Agenda.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOllll/Agenda/out/production/Agenda/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOllll/Agenda/out/production/Agenda/entidades/Agenda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOllll/Agenda/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOllll/Agenda/src/entidades/Agenda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOllll/Contador-EjemploGettySett/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOllll/Contador-EjemploGettySett/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOllll/Contador-EjemploGettySett/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOllll/Contador-EjemploGettySett/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOllll/Contador-EjemploGettySett/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOllll/Contador-EjemploGettySett/Contador.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOllll/Contador-EjemploGettySett/out/production/Contador/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOllll/Contador-EjemploGettySett/out/production/Contador/entidades/Contador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOllll/Contador-EjemploGettySett/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOllll/Contador-EjemploGettySett/src/entidades/Contador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOllll/EjercicioClase-MyContast/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOllll/EjercicioClase-MyContast/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOllll/EjercicioClase-MyContast/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOllll/EjercicioClase-MyContast/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOllll/EjercicioClase-MyContast/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOllll/EjercicioClase-MyContast/EjercicioClase.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOllll/EjercicioClase-MyContast/out/production/EjercicioClase/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOllll/EjercicioClase-MyContast/out/production/EjercicioClase/entidades/MyContast.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOllll/EjercicioClase-MyContast/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOllll/EjercicioClase-MyContast/src/entidades/MyContast.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOllll/EjercicioTarea/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOllll/EjercicioTarea/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOllll/EjercicioTarea/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOllll/EjercicioTarea/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOllll/EjercicioTarea/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOllll/EjercicioTarea/EjercicioenClase.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOllll/EjercicioTarea/out/production/EjercicioenClase/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOllll/EjercicioTarea/out/production/EjercicioenClase/entidades/operaciones.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOllll/EjercicioTarea/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO - Ejercicios de clases/POOllll/EjercicioTarea/src/entidades/operaciones.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IvZR1tFUoBotJOVPMw45Ujegcc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/maru.DESKTOP-6Q6AET0/OneDrive/Escritorio/ADA - space doubts-backend/Ejemplos Herencia - En clase"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="085e3a24-60df-499c-a288-0c61c2c6ccb3" name="Changes" comment="" />
+      <created>1671064008412</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671064008412</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
